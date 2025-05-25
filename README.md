@@ -97,13 +97,4 @@ npm run dev
 
 ---
 
-## 📄 License
-
-MIT License
-
-```
-
----
-
-Let me know if you want this in a downloadable file or with some visuals like badges or screenshots — happy to help!
 ```

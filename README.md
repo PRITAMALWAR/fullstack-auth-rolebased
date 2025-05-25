@@ -5,7 +5,14 @@
 ````markdown
 # 🔐 Fullstack Role-Based Authentication (MERN)
 
-A simple and secure authentication system built with **React (Vite)**, **Node.js**, **Express**, and **MongoDB**. Includes **JWT auth**, **httpOnly cookies**, and **role-based access (User/Admin)**.
+secure authentication system built with
+**React (Vite)**,
+ **Node.js**,
+ **Express**,
+ and **MongoDB**.
+ Includes **JWT auth**,
+ **httpOnly cookies**,
+ and **role-based access (User/Admin)**.
 
 ---
 

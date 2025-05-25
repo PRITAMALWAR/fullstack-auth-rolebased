@@ -128,12 +128,12 @@ npm run dev
 
 ## 🙌 Credits
 
-Developed by [pritam](https://github.com/your-username)
+Developed by [pritam](https://github.com/PRITAMALWAR/fullstack-auth-rolebased)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [pritam](LICENSE).
+This project is licensed under the [@pritam](LICENSE).
 
 `
